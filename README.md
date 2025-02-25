@@ -1,4 +1,4 @@
-- 👋 Hi, I’m a full-stack flutter developer
+- 👋 Hi, I’m a flutter Engineer. mobile apps and web apps,
 - 👀 I’m interested in software development
 - 📫 How to reach me codestack60@gmail.com.
 - wa.me +2349033770805
